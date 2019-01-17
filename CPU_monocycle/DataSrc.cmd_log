@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj CPU_monocycle -o C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/DataSrc.tfi -lib work C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath//mux.v -module DataSrc -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

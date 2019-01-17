@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 46: Redeclaration of ansi port <arg fmt="%s" index="1">Instr</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="35" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 46: &lt;<arg fmt="%s" index="1">Jr</arg>&gt; is already implicitly declared earlier.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="35" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 62: &lt;<arg fmt="%s" index="1">Wd</arg>&gt; is already implicitly declared earlier.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="35" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 77: &lt;<arg fmt="%s" index="1">A</arg>&gt; is already implicitly declared earlier.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="35" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 92: &lt;<arg fmt="%s" index="1">Addr</arg>&gt; is already implicitly declared earlier.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="35" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 93: &lt;<arg fmt="%s" index="1">Din</arg>&gt; is already implicitly declared earlier.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="35" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 104: &lt;<arg fmt="%s" index="1">Imm</arg>&gt; is already implicitly declared earlier.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="35" delta="unknown" >"C:/Users/ThinkPad/Documents/ISE/CPU_monocycle/CPU_monocycle/mips/datapath/datapath.v" Line 112: &lt;<arg fmt="%s" index="1">RegDstOut</arg>&gt; is already implicitly declared earlier.
+</msg>
+
+</messages>
+
